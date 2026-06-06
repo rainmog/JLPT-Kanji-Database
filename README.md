@@ -128,6 +128,11 @@ const sentences = db.prepare(`
 
 ## License
 
-Database content (sentences, translations) is original work released for free educational and research use. See [LICENSE](LICENSE) for details.
+Licensed under the [Open Database License (ODbL) v1.0](LICENSE).
 
-Built for the [JLPT Kanji & Vocabulary](https://github.com/rainmog/JLPT-Kanji-And-Vocabulary) Android app.
+You are free to share, adapt, and build upon this database for any purpose — including commercial — as long as you:
+- **Attribute** this database as the source
+- **Share-alike** — release any adapted or derived database under ODbL as well
+- **Keep open** — any public redistribution must remain under these terms
+
+Full license: https://opendatacommons.org/licenses/odbl/1.0/
